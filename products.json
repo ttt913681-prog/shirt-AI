@@ -1,102 +1,102 @@
 [
-  { 
-    "id": 1, 
-    "name": "BareFit Seamless Crew Neck (รุ่นไร้ตะเข็บ)", 
-    "mood": "seamless", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 229, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/4856681717222678669", 
-    "description": "ผ้าพรีเมียมบางเบา 0.1mm ไร้ตะเข็บข้าง สัมผัสนุ่มเบาเหมือนผิวที่สอง" 
+  {
+    "id": 1,
+    "name": "BareFit Seamless Crew Neck (รุ่นไร้ตะเข็บ)",
+    "mood": "seamless",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 229,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80",
+    "description": "ผ้าพรีเมียมบางเบา 0.1mm ไร้ตะเข็บข้าง สัมผัสนุ่มเบาเหมือนผิวที่สอง"
   },
-  { 
-    "id": 2, 
-    "name": "BareFit Seamless V-Neck (คอวีไร้ตะเข็บ)", 
-    "mood": "seamless", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 229, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_1", 
-    "description": "เสื้อคอวีไร้รอยต่อ ผ้าลื่นเย็นสบาย ทรงสวยไม่ย้วยง่าย" 
+  {
+    "id": 2,
+    "name": "BareFit Seamless V-Neck (คอวีไร้ตะเข็บ)",
+    "mood": "seamless",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 229,
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=500&auto=format&fit=crop&q=80",
+    "description": "เสื้อคอวีไร้รอยต่อ ผ้าลื่นเย็นสบาย ทรงสวยไม่ย้วยง่าย"
   },
-  { 
-    "id": 3, 
-    "name": "Organic Cotton Everyday Tee", 
-    "mood": "cotton", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 199, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_2", 
-    "description": "คอตตอนออร์แกนิคแท้ 100% สัมผัสนุ่ม อ่อนโยนต่อผิว ใส่ได้ทุกวัน" 
+  {
+    "id": 3,
+    "name": "Organic Cotton Everyday Tee",
+    "mood": "cotton",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500&auto=format&fit=crop&q=80",
+    "description": "คอตตอนออร์แกนิคแท้ 100% สัมผัสนุ่ม อ่อนโยนต่อผิว ใส่ได้ทุกวัน"
   },
-  { 
-    "id": 4, 
-    "name": "Organic Cotton Oversized Tee", 
-    "mood": "cotton", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 259, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_3", 
-    "description": "ทรงโอเวอร์ไซส์ผ้านุ่มระบายอากาศได้ดีเยี่ยม ลดการอับชื้นตลอดวัน" 
+  {
+    "id": 4,
+    "name": "Organic Cotton Oversized Tee",
+    "mood": "cotton",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 259,
+    "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=500&auto=format&fit=crop&q=80",
+    "description": "ทรงโอเวอร์ไซส์ผ้านุ่มระบายอากาศได้ดีเยี่ยม ลดการอับชื้นตลอดวัน"
   },
-  { 
-    "id": 5, 
-    "name": "Pro-Sport Flex Tee", 
-    "mood": "sport", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 279, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_0", 
-    "description": "ผ้ายืดหยุ่น 4 ทิศทาง แห้งไว ไม่อับชื้น เหมาะสำหรับการออกกำลังกาย" 
+  {
+    "id": 5,
+    "name": "Pro-Sport Flex Tee",
+    "mood": "sport",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 279,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=500&auto=format&fit=crop&q=80",
+    "description": "ผ้ายืดหยุ่น 4 ทิศทาง แห้งไว ไม่อับชื้น เหมาะสำหรับการออกกำลังกาย"
   },
-  { 
-    "id": 6, 
-    "name": "Pro-Sport Active Long Sleeve", 
-    "mood": "sport", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 329, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_1", 
-    "description": "เสื้อแขนยาวกระชับกล้ามเนื้อ ระบายเหงื่อรวดเร็ว ลดแรงเสียดสี" 
+  {
+    "id": 6,
+    "name": "Pro-Sport Active Long Sleeve",
+    "mood": "sport",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 329,
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500&auto=format&fit=crop&q=80",
+    "description": "เสื้อแขนยาวกระชับกล้ามเนื้อ ระบายเหงื่อรวดเร็ว ลดแรงเสียดสี"
   },
-  { 
-    "id": 7, 
-    "name": "Ultra Soft Lounge Tee", 
-    "mood": "lounge", 
-    "type": "t-shirt", 
-    "size": "Free Size", 
-    "price": 249, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_2", 
-    "description": "ทรงหลวมสวมสบาย สัมผัสเบาเหมือนไม่ได้ใส่ เหมาะสำหรับใส่นอนพักผ่อน" 
+  {
+    "id": 7,
+    "name": "Ultra Soft Lounge Tee",
+    "mood": "lounge",
+    "type": "t-shirt",
+    "size": "Free Size",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?w=500&auto=format&fit=crop&q=80",
+    "description": "ทรงหลวมสวมสบาย สัมผัสเบาเหมือนไม่ได้ใส่ เหมาะสำหรับใส่นอนพักผ่อน"
   },
-  { 
-    "id": 8, 
-    "name": "Modal Premium Luxe Tee", 
-    "mood": "seamless", 
-    "type": "t-shirt", 
-    "size": "M / L / XL", 
-    "price": 299, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_3", 
-    "description": "ผ้าทอใยไม้ธรรมชาติ สัมผัสเย็น ลื่นนุ่มกว่าคอตตอนทั่วไป 2 เท่า" 
+  {
+    "id": 8,
+    "name": "Modal Premium Luxe Tee",
+    "mood": "seamless",
+    "type": "t-shirt",
+    "size": "M / L / XL",
+    "price": 299,
+    "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500&auto=format&fit=crop&q=80",
+    "description": "ผ้าทอใยไม้ธรรมชาติ สัมผัสเย็น ลื่นนุ่มกว่าคอตตอนทั่วไป 2 เท่า"
   },
-  { 
-    "id": 9, 
-    "name": "Bamboo Antibacterial Polo", 
-    "mood": "cotton", 
-    "type": "polo", 
-    "size": "M / L / XL", 
-    "price": 350, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_0", 
-    "description": "เสื้อโปโลเส้นใยเยื่อไผ่ธรรมชาติ ยับยั้งแบคทีเรียและกลิ่นอับชื้น 99%" 
+  {
+    "id": 9,
+    "name": "Bamboo Antibacterial Polo",
+    "mood": "cotton",
+    "type": "polo",
+    "size": "M / L / XL",
+    "price": 350,
+    "image": "https://images.unsplash.com/photo-1625910513411-714041d8e13f?w=500&auto=format&fit=crop&q=80",
+    "description": "เสื้อโปโลเส้นใยเยื่อไผ่ธรรมชาติ ยับยั้งแบคทีเรียและกลิ่นอับชื้น 99%"
   },
-  { 
-    "id": 10, 
-    "name": "BareFit Starter Pack (เสื้อ 3 ตัว)", 
-    "mood": "lounge", 
-    "type": "set", 
-    "size": "M / L / XL", 
-    "price": 650, 
-    "image": "http://googleusercontent.com/image_collection/image_retrieval/11309321522245954943_1", 
-    "description": "เซ็ตเสื้อยืดสุดคุ้ม 3 ตัว คละสีคลาสสิก (Black / Slate / Nude)" 
+  {
+    "id": 10,
+    "name": "BareFit Starter Pack (เสื้อ 3 ตัว)",
+    "mood": "lounge",
+    "type": "set",
+    "size": "M / L / XL",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1564859228273-274232fdb516?w=500&auto=format&fit=crop&q=80",
+    "description": "เซ็ตเสื้อยืดสุดคุ้ม 3 ตัว คละสีคลาสสิก (Black / Slate / Nude)"
   }
 ]
