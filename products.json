@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "BareFit Seamless Crew Neck (รุ่นไร้ตะเข็บ)",
+    "name": " Seamless Crew Neck (รุ่นไร้ตะเข็บ)",
     "mood": "seamless",
     "type": "t-shirt",
     "size": "M / L / XL",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name": "BareFit Seamless V-Neck (คอวีไร้ตะเข็บ)",
+    "name": " Seamless V-Neck (คอวีไร้ตะเข็บ)",
     "mood": "seamless",
     "type": "t-shirt",
     "size": "M / L / XL",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "name": "BareFit Starter Pack (เสื้อ 3 ตัว)",
+    "name": " Starter Pack (เสื้อ 3 ตัว)",
     "mood": "lounge",
     "type": "set",
     "size": "M / L / XL",
